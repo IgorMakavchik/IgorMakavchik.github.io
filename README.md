@@ -1,2 +1,2 @@
 # IgorMakavchik.github.io
-index.php
+/index.php
